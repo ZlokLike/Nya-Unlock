@@ -171,13 +171,13 @@ python main.py
 ⚠️ **WARNING:** Some features (service deletion, MBR restoration) may lead to system instability. Use with caution!
 
 ---
-
+```
 ## 📁 Project Structure
 Nya.Unlock/
 ├── main.py                 # Main application file
 ├── bin/                    # Utilities directory
 │   └── explorerpp/         # Explorer++ file manager
 └── README.md              # This file
-
+```
 ## 🐛 Bug Reports and Support
 For bug reports and feature requests, please create an issue in the project repository.
